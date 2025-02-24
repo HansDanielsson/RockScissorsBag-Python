@@ -1,13 +1,13 @@
 # RockScissorsBag-Python
 
-The game of simple Rock-Scissors-Bag
+Spelet Rock-Sax-Bag
 
-The computer randomly chooses which of rock, scissors, or bag to choose.
+Datorn väljer slumpmässigt vilken av sten, sax eller påse som ska väljas.
 
-· The player also chooses rock, scissors, or bag.
+· Spelaren väljer också sten, sax eller påse.
 
-· The computer and the player then show their choices simultaneously.
+· Datorn och spelaren visar sedan sina val samtidigt.
 
-· The rules are as follows: rock wins over scissors, scissors wins over bag, and bag wins over rock. If both choose the same option, it is a draw.
+· Reglerna är följande: sten vinner över sax, sax vinner över påse och påse vinner över sten. Om båda väljer samma alternativ är det oavgjort.
 
-· The player plays until he wins or loses against the computer.
+· Spelaren spelar tills hen vinner eller förlorar mot datorn.
